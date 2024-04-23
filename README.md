@@ -4,5 +4,5 @@ Menu de cadastro feito para armazenar produtos com as seguintes funcionalidades 
 
 ## PARTICIPANTES:
 
-Caio Labes de Castro
-Lucas Affonso Purkott Zelleroff
+-Caio Labes de Castro
+-Lucas Affonso Purkott Zelleroff
